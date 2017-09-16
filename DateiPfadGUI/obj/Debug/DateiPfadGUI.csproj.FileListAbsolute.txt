@@ -1,0 +1,10 @@
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.csprojResolveAssemblyReference.cache
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.Properties.Resources.resources
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.csproj.GenerateResource.Cache
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.csproj.CoreCompileInputs.cache
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\bin\Debug\DateiPfadGUI.exe.config
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\bin\Debug\DateiPfadGUI.exe
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\bin\Debug\DateiPfadGUI.pdb
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.exe
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.pdb
+C:\Users\Tobin Rosenau\source\repos\DateiPfadGUI\DateiPfadGUI\obj\Debug\DateiPfadGUI.MainForm.resources
